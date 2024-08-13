@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a full stack developer
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on increase knowledge
-- 📫 How to reach me abdukamolovmustafokamol@gmail.com or (for Ins.) mustafokamoli_ibn_ibrohim
+- 📫 How to reach me abdukamolovmustafokamol@gmail.com or (for Inst.) mustafokamoli_ibn_ibrohim
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am ready to answer any of your questions even though I don't speak English very well
 
